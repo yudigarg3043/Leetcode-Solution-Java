@@ -1,4 +1,4 @@
-class StringtoInteger {
+class Solution {
     public int myAtoi(String s) {
         s=s.trim();
         int sign=1,i=0,l = s.length();
